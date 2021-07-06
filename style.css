@@ -1,0 +1,29 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    margin: 2PX;
+}
+span{
+    color:slateblue;
+}
+.button{
+    text-decoration: none;
+    color:whitesmoke;
+    background-image: linear-gradient(rgb(60, 60, 160),blue,wheat);
+    padding: 15px 40px;
+    border-radius: 50px;
+    font-weight: 700px;
+    margin-top: 15px;
+}
+.width{
+    display: flex;
+    }
+.size{
+    width: 50%;
+    padding-left: 5%;
+    }
+.size img{
+    width: 70%;
+}
+
